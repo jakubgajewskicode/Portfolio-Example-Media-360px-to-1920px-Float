@@ -1,6 +1,6 @@
 # CSS Case Study : Portfolio example [@Media 360px to  1920px ,Float]
 
-Portfolio is a simple page where I use: 
+Portfolio is a simple page where I used: 
 
 - @Media orientation: landscape and portait in order to fix problems with a imgs and text 
 
