@@ -18,5 +18,6 @@ Portfolio is a simple page where I used:
 
 - all functions with border-box
 
+<br>
 
 To have a look => link on top
