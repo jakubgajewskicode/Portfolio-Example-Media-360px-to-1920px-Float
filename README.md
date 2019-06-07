@@ -17,3 +17,6 @@ Portfolio is a simple page where I used:
 - z-index 
 
 - all functions with border-box
+
+
+To have a look => link on top
